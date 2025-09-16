@@ -10,7 +10,6 @@ public class AquaBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AquaBackendApplication.class, args);
-        System.out.println("Hello Tester");
 	}
 
 }
